@@ -1,7 +1,5 @@
 # Darren Yao
 
-Darren Yao
-
 Carlmont High School
 
 Class of 2021
@@ -10,4 +8,3 @@ Class of 2021
 
 [LinkedIn](https://www.linkedin.com/in/darren-yao-707b61195/)
 
-[Contact me](darren.yao@gmail.com)
