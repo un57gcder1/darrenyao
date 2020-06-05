@@ -1,3 +1,9 @@
-## Welcome to Darren's personal website
+# Darren Yao
 
-This website is currently under construction. Please come back later.
+Darren Yao
+Carlmont High School
+Class of 2021
+
+[Github](https://github.com/darren-yao)
+[LinkedIn](https://www.linkedin.com/in/darren-yao-707b61195/)
+[Contact me](darren.yao@gmail.com)
