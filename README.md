@@ -3,6 +3,12 @@
 Hi, I’m Darren Yao, a student at Carlmont High School (Class of 2021) interested in mathematics and computer science.
 
 # Competitive Programming Book
+I'm the author of the book _An Introduction to the USA Computing Olympiad_, written as a comprehensive training resources for the Bronze and Silver divisions of the [USACO](usaco.org). Links to the book are below:
+
+[Java Edition](http://darrenyao.com/usacobook/java.pdf)
+
+[C++ Edition](http://darrenyao.com/usacobook/cpp.pdf)
+
 
 # Contact
 
