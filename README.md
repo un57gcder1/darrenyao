@@ -2,7 +2,9 @@
 
 Hi, I’m Darren Yao, a student at Carlmont High School (Class of 2021) interested in mathematics and computer science.
 
-# Competitive Programming Book
+# Competitive Programming
+The USA Computing Olympiad is the national computer science olympiad for American high school students. The USACO holds four contests each year, in December, January, February, and March (US Open). The contest takes place in four divisions, where students scoring sufficiently high are promoted to the next division. 
+
 I'm the author of the book _An Introduction to the USA Computing Olympiad_, written as a comprehensive training resource for the Bronze and Silver divisions of the [USACO](usaco.org). Links to the book are below:
 
 [Java Edition](http://darrenyao.com/usacobook/java.pdf)
