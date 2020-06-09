@@ -1,1 +1,8 @@
-
+theme: jekyll-theme-cayman
+title: Darren Yao's website
+description: Darren Yao's website
+url: http://darrenyao.com
+author: Darren Yao
+plugins:
+  - jekyll-seo-tag
+google_analytics: UA-168722146-1
