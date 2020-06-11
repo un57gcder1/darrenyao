@@ -4,4 +4,4 @@ url: https://example.com
 author: MyName
 plugins:
   - jekyll-seo-tag
-google_analytics: UA-xxx
+google_analytics: UA-168722146-1
