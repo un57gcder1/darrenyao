@@ -1,7 +1,7 @@
-title: My Site
-description: My site description
-url: https://example.com
-author: MyName
+title: Darren Yao's website
+description: Darren Yao's website
+url: https://darrenyao.com
+author: Darren Yao
 plugins:
   - jekyll-seo-tag
 google_analytics: UA-168722146-1
