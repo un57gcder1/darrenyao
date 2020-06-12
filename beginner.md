@@ -2,22 +2,24 @@
 
 # Introduction (or How to be Better at USACO)
 
-Recently, I’ve received a number of questions along the lines of “how do I get better at programming contests?,” or “how do I achieve X rank in Y time,” from beginners. Anyway, due to the drastic increase in new competitors I’m seeing lately, I decided to write some articles on programming olympiads, perhaps as a programming counterpart to Evan Chen’s blog, because I think it’d be helpful.	
+Recently, I’ve received a number of questions along the lines of “how do I get better at programming contests?,” or “how do I achieve X rank in Y time,” from beginners. Anyway, due to the drastic increase in new competitors I’m seeing lately, I decided to write some articles on programming olympiads, perhaps as a programming counterpart to Evan Chen’s blog, because I think it’d be helpful. My name is Darren Yao, and I'm a current competitor in the USACO Platinum division (top ~200 US). I'm also the author of the book _An Introduction to the USA Computing Olympiad_ (linked below), and am the president of my school's computer science club.
 
-By far the most common question I receive is “can I get from beginner level to Platinum (top ~200 US) in a year?” I mostly get this from beginners, and probably as a result of the fact that quarantine killed most people’s extracurricular activities, so they’re looking for some resume padding for their college applications. To answer the question: yes, it’s possible (I did it in eight months). However, if you really want to do this, you’ll need to be extremely dedicated and productive. Furthermore, you should know that if you’re only doing programming competitions out of a desire to look good on college applications, you will likely burn out and end up nowhere. You have been warned.
+By far the most common question I receive is “can I get from beginner level to Platinum in a year?” I mostly get this from beginners, and probably as a result of the fact that quarantine killed most people’s extracurricular activities, so they’re looking for some resume padding for their college applications. To answer the question: yes, it’s possible (I did it in eight months). However, if you really want to do this, you’ll need to be extremely dedicated and productive. Furthermore, you should know that if you’re only doing programming competitions out of a desire to look good on college applications, and don't actually enjoy the process, you will likely burn out and end up nowhere. Consider yourself warned. 
 
-I’m going to start off by reiterating a phrase seen often on AoPS: stop looking for the “right” training. There certainly does not exist a method that will guarantee you X rank in Y amount of time, because as with all contests, there are other factors involved: luck, innate talent, efficiency and productivity of your training time, and so forth. Most importantly, everyone learns differently, and your training should be structured around your own strengths and weaknesses so that it fits _you_. That being said, I'm going to provide some useful resources below. Readers are encouraged to use their best judgement and skip around the books or go through chapters faster or slower as they see fit; in the end, it is up to you to make your own practice effective.
+Welcome to the world of competitive programming! I’m going to start off by reiterating a phrase seen often on AoPS: stop looking for the “right” training. There certainly does not exist a method that will guarantee you X rank in Y amount of time, because as with all contests, there are other factors involved: luck, innate talent, efficiency and productivity of your training time, and so forth. Most importantly, everyone learns differently, and your training should be structured around your own strengths and weaknesses so that it fits _you_. That being said, I'm going to provide some useful resources below. Readers are encouraged to use their best judgement and skip around the books or go through chapters faster or slower as they see fit; in the end, it is up to you to make your own practice effective.
 
 # Recommended Resources 
 
-If you don’t know how to code, you need to learn that first. The two primary languages used in competition are C++ and Java; C++ code is shorter and runs faster, but Java is granted extra runtime on the USACO and I consider it significantly more intuitive with less random gimmicks and way easier to debug.
-A solid background in competition math can make the learning curve easier, but by no means is it required to be successful.
+If you don’t know how to code, you need to learn that first. The two primary languages used in competition are C++ and Java; C++ code is shorter, runs faster and is thus favored by the majority of contestants but Java is granted extra runtime on the USACO to compensate and I personally find it more intuitive and easier to debug. At the high platinum and camp levels, using C++ is an advantage, but Java is still viable. Python generally is not an acceptable language due to its slow runtime.
+
+A solid background in competition math can make the learning curve easier, because you've already developed the intuition needed to solve problems. This generally allows you to get through bronze material very quickly, and also speeds up the learning of more advanced concepts. That being said, the advantage you gain from having previously done competition math is diminishing -- USACO wants to make Platinum qualification a major goal in and of itself, rather than a mere side-quest for the math contest elite.
+
 At the bronze and silver level, you should read my book _An Introduction to the USA Computing Olympiad_, and do the accompanying practice problems at the end of each chapter. Links are below:
 
 - [Intro to USACO, Java Edition](http://darrenyao.com/usacobook/java.pdf)
 - [Intro to USACO, C++ Edition](http://darrenyao.com/usacobook/cpp.pdf)
 
-At the gold level, resources are still in development. I would recommend just learning all the standard algorithms and then doing lots of practice problems. The site [cp-algorithms](https://cp-algorithms.com/) provides good explanations for most algorithms, but it’s unfortunately only available in C++.
+At the gold level, resources are still in development. I would recommend just learning all the standard algorithms and then doing lots of practice problems. The site [cp-algorithms](https://cp-algorithms.com/) and certain sections of [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf) provide good explanations for most algorithms, but they're unfortunately only available in C++.
 
 For additional practice, CodeForces has an extensive selection of problems, sorted by rating, topic, or pretty much any other criterion you can think of.
 
@@ -37,7 +39,7 @@ When you get stuck and consult the solution, you should not read the entire solu
 
 Problems that you practice with should be of the appropriate difficulty. You don't necessarily need to complete all the exercises at the end of each chapter, just do what you think is right for you. A problem at the right level of difficulty should be one of two types: either you struggle with the problem for a while before coming up with a working solution, or you miss it slightly and need to consult the solution for some small part. If you instantly come up with the solution, a problem is likely too easy, and if you're missing multiple steps, it might be too hard.
 
-# Additional Info
+# Some Final Notes
 [This](https://web.evanchen.cc/FAQs/raqs.html) and [this](https://usamo.wordpress.com/2019/01/31/math-contest-platitudes-v3/) are two blog posts by Evan Chen that I find quite insightful. They discuss such things as time management, the problem-solving process, and other tips that you may find useful. 
 
 I think this is all that I wanted to say, so I’ll leave off here. Best of luck!
