@@ -24,8 +24,8 @@ For additional practice, CodeForces has an extensive selection of problems, sort
 # IDEs and Text Editors
 
 Some good IDEs for competitive programming are:
-Java: Visual Studio Code or IntelliJ/Eclipse
-C++: Visual Studio Code, CodeBlocks, vim/gvim, Sublime Text.
+- Java: Visual Studio Code or IntelliJ/Eclipse
+- C++: Visual Studio Code, CodeBlocks, vim/gvim, Sublime Text.
 Do not use online IDEs that display your code publicly, like the free version of ideone. This allows other users to copy your code, and you may get flagged for cheating.
 
 # On Exercises and Practice Problems
