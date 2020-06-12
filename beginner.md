@@ -1,5 +1,3 @@
-## Darren Yao
-
 # Introduction (or How to be Better at USACO)
 
 Recently, I’ve received a number of questions along the lines of “how do I get better at programming contests?,” or “how do I achieve X rank in Y time,” from beginners. Anyway, due to the drastic increase in new competitors I’m seeing lately, I decided to write some articles on programming olympiads, perhaps as a programming counterpart to Evan Chen’s blog, because I think it’d be helpful. My name is Darren Yao, and I'm a current competitor in the USACO Platinum division (top ~200 US). I'm also the author of the book _An Introduction to the USA Computing Olympiad_ (linked below), and am the president of my school's computer science club.
