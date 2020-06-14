@@ -11,7 +11,7 @@ I currently compete in the Platinum division of the [USA Computing Olympiad](htt
 
 - [Java Edition](http://darrenyao.com/usacobook/java.pdf)
 - [C++ Edition](http://darrenyao.com/usacobook/cpp.pdf)
-
+- [Errata](http://darrenyao.com/errata)
 # Math
 
 Here's a few expository papers I've written on various topics:
