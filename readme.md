@@ -14,6 +14,8 @@ I currently compete in the Platinum division of the [USA Computing Olympiad](htt
 
 ### Errata
 
+Java Edition, page 20. After `map.remove(11);` the comment should say `// [(3, 5); (10, 491)]`
+
 # Math
 
 Here's a few expository papers I've written on various topics:
