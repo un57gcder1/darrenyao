@@ -14,6 +14,7 @@ I currently compete in the Platinum division of the [USA Computing Olympiad](htt
 
 ### Errata
 
+Chapter 10, Adjacency List, bad grammar
 Java Edition, page 20. After `map.remove(11);` the comment should say `// [(3, 5); (10, 491)]`
 
 # Math
