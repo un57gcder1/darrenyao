@@ -37,7 +37,7 @@ Some good IDEs for competitive programming are:
 
 # On Exercises and Practice Problems
 
-In general, I think it’s fine to read the solution relatively early on, as long as you’re made several different attempts at it and you can learn effectively from the solution.
+In general, I think it’s fine to read the solution relatively early on, as long as you’ve made several different attempts at it and you can learn effectively from the solution.
 - On a bronze problem, read the solution after 15-20 minutes of no meaningful progress, after you’ve exhausted every idea you can think of.
 - On a silver problem, read the solution after 30-40 minutes of no meaningful progress.
 - When you get stuck and consult the solution, you should not read the entire solution at once, and you certainly shouldn’t look at the solution code. Instead, it’s better to read the solution step by step until you get unstuck, at which point you should go back and finish the problem, and implement it yourself. Reading the full solution or its code should be seen as a last resort.
